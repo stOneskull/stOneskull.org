@@ -4116,9 +4116,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				}
 			}
 		});
@@ -4127,9 +4127,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				logo: {
 					"image": {
@@ -4159,9 +4159,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				superhead: "October 12 • Written by John Doe",
 				heading: "Visual Editing",
@@ -4178,9 +4178,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				content: {
 					"html": "<h2>Morbi quis</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices tincidunt arcu non sodales. Ac orci phasellus egestas tellus rutrum tellus. <em>Dictumst vestibulum </em>rhoncus est pellentesque elit ullamcorper dignissim. Massa sed elementum tempus egestas sed sed risus pretium. Elit duis tristique sollicitudin nibh. Sed risus ultricies tristique nulla aliquet enim tortor at. Odio tempor orci dapibus ultrices in iaculis nunc sed augue. Diam sit amet nisl suscipit adipiscing bibendum. <strong>Egestas integer</strong> eget aliquet nibh praesent. Natoque penatibus et magnis dis parturient. Amet cursus sit amet dictum sit amet justo donec enim.</p><h2>Suspendisse interdum</h2><p>Orci porta non pulvinar neque laoreet suspendisse interdum. Id aliquet lectus proin nibh nisl condimentum. Cursus risus at ultrices mi tempus imperdiet nulla malesuada. A condimentum vitae sapien pellentesque habitant. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Amet massa vitae tortor condimentum lacinia. Semper auctor neque vitae tempus quam pellentesque. Enim praesent elementum <strong>facilisis</strong> leo vel fringilla est. Turpis cursus in hac habitasse platea dictumst quisque. In arcu cursus euismod quis viverra nibh. Consectetur a erat nam at. Massa eget egestas purus viverra accumsan in nisl nisi.</p><p>Ut aliquam purus sit amet luctus venenatis lectus magna. Tortor <strong>aliquam</strong> nulla facilisi cras. Pellentesque sit amet porttitor eget dolor. Donec ultrices tincidunt arcu non. Non enim praesent elementum facilisis leo vel fringilla. Egestas tellus rutrum tellus pellentesque eu tincidunt. Morbi quis commodo odio aenean sed adipiscing diam. Tristique senectus et netus et malesuada fames ac turpis. Est ante in nibh mauris cursus. Morbi tincidunt augue interdum velit euismod in pellentesque massa placerat. Pulvinar pellentesque habitant morbi tristique senectus et netus et. Id nibh tortor id aliquet lectus.</p>",
@@ -4193,9 +4193,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				content: {
 					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
@@ -4226,9 +4226,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				}
 			}
 		});

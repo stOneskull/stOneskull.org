@@ -4155,9 +4155,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project"
@@ -4168,9 +4168,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project",
@@ -4199,9 +4199,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project",
@@ -4218,9 +4218,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project",
@@ -4235,9 +4235,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project",
@@ -4270,9 +4270,9 @@ function create_fragment$6(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "About Us",
 				description: "Info about the one billion trees project"

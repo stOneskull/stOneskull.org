@@ -5197,9 +5197,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees"
@@ -5210,9 +5210,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
@@ -5222,7 +5222,7 @@ function create_fragment$9(ctx) {
 					"url": "https://images.unsplash.com/photo-1669569243790-1c5c614e5943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
 					"size": null
 				},
-				headline: "We're helping make the world a greener place",
+				headline: "We're gonna save Koalas",
 				logo: {
 					"image": {
 						"alt": "",
@@ -5261,17 +5261,17 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
-				heading: "Supporting innovative methods to save forests and jungles.",
+				heading: "Supporting innovative methods to save Koalas.",
 				link: { "url": "/", "label": "Our Mission" },
 				content: {
-					"html": "<p>The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds. </p><p>Our mission is to not only clean up the river ways but to also enhance the watershed by planting native trees and removing invasive plants.</p>",
-					"markdown": "The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds. <br>\n\nOur mission is to not only clean up the river ways but to also enhance the watershed by planting native trees and removing invasive plants.\n\n"
+					"html": "<p>The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.</p><p>Nah it's about Koalas.</p><p>Stay tuned.</p>",
+					"markdown": "The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.\n\nNah it's about Koalas.\n\nStay tuned.\n\n"
 				}
 			}
 		});
@@ -5280,17 +5280,17 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
 				teasers: [
 					{
 						"body": {
-							"html": "<p>Aute Lorem duis mollit laborum eu laborum magna deserunt. Ex reprehenderit Lorem do veniam et mollit officia duis excepteur qui consequat est esse et sit.</p>",
-							"markdown": "Aute Lorem duis mollit laborum eu laborum magna deserunt. Ex reprehenderit Lorem do veniam et mollit officia duis excepteur qui consequat est esse et sit.\n"
+							"html": "<p>Aute Lorem duis mollit laborum eu laborum magna deserunt. Ex reprehenderit Lorem save Koalas.</p>",
+							"markdown": "Aute Lorem duis mollit laborum eu laborum magna deserunt. Ex reprehenderit Lorem save Koalas.\n\n"
 						},
 						"link": { "url": "/", "label": "Learn More" },
 						"image": {
@@ -5303,8 +5303,8 @@ function create_fragment$9(ctx) {
 					},
 					{
 						"body": {
-							"html": "<p>Veniam labore proident do non quis do. Aliquip et in commodo sit ex id aliqua proident commodo laboris laboris et laboris irure cupidatat.</p>",
-							"markdown": "Veniam labore proident do non quis do. Aliquip et in commodo sit ex id aliqua proident commodo laboris laboris et laboris irure cupidatat.\n\n"
+							"html": "<p>Veniam labore proident do non quis do. Aliquip et in commodo and we gotta save Platypuses.</p>",
+							"markdown": "Veniam labore proident do non quis do. Aliquip et in commodo and we gotta save Platypuses.\n\n"
 						},
 						"link": { "url": "/", "label": "Learn More" },
 						"image": {
@@ -5334,9 +5334,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
@@ -5352,9 +5352,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
@@ -5371,9 +5371,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
@@ -5416,9 +5416,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees",
@@ -5451,9 +5451,9 @@ function create_fragment$9(ctx) {
 			props: {
 				favicon: {
 					"alt": "",
-					"src": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"url": "https://jbbjtodsvhsgjappwopg.supabase.co/storage/v1/object/public/sites/prisaka/assets/logoipsum-277.svg",
-					"size": 3
+					"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+					"size": 24
 				},
 				title: "BillionTrees Project",
 				description: "We're on a mission to save the trees"
