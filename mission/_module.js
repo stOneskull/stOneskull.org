@@ -4432,30 +4432,18 @@ function create_fragment$6(ctx) {
 				logo: {
 					"image": {
 						"alt": "",
-						"src": "",
-						"url": "",
+						"src": "https://picsum.photos/600/400?blur=10",
+						"url": "https://picsum.photos/600/400?blur=10",
 						"size": null
 					},
-					"title": "BillionTrees"
+					"title": "stOneskull.org"
 				},
 				site_nav: [
 					{
-						"link": {
-							"url": "https://primosites.vercel.app/theme-nonprofit",
-							"label": "Home"
-						}
+						"link": { "url": "/", "label": "commodo" }
 					},
 					{
-						"link": {
-							"url": "https://primosites.vercel.app/about",
-							"label": "About"
-						}
-					},
-					{
-						"link": {
-							"url": "https://primosites.vercel.app/blog",
-							"label": "Blog"
-						}
+						"link": { "url": "/", "label": "reprehenderit" }
 					}
 				]
 			}
@@ -4538,8 +4526,8 @@ function create_fragment$6(ctx) {
 				title: "Our Mission",
 				description: "One Billion Tree's mission",
 				content: {
-					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
-					"markdown": "### BillionTrees <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
+					"html": "<h3 id=\"stoneskullorgbr\">stOneskull.org <br></h3>\n<p>321 Something St. Jackson, AL 20332</p>",
+					"markdown": "### stOneskull.org <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
 				},
 				menus: [
 					{

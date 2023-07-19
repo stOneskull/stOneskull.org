@@ -4604,30 +4604,19 @@ function create_fragment$5(ctx) {
 				logo: {
 					"image": {
 						"alt": "",
-						"src": "",
-						"url": "",
-						"size": null
+						"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"size": 24
 					},
-					"title": "BillionTrees"
+					"title": "stOneskull.org"
 				},
 				site_nav: [
+					{ "link": { "url": "/", "label": "Home" } },
 					{
-						"link": {
-							"url": "https://primosites.vercel.app/theme-nonprofit",
-							"label": "Home"
-						}
+						"link": { "url": "/about", "label": "About" }
 					},
 					{
-						"link": {
-							"url": "https://primosites.vercel.app/about",
-							"label": "About"
-						}
-					},
-					{
-						"link": {
-							"url": "https://primosites.vercel.app/blog",
-							"label": "Blog"
-						}
+						"link": { "url": "/blog", "label": "Blog" }
 					}
 				]
 			}
@@ -4644,8 +4633,8 @@ function create_fragment$5(ctx) {
 				title: "Team",
 				description: "Our team members at the organization",
 				content: {
-					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
-					"markdown": "### BillionTrees <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
+					"html": "<h3 id=\"stoneskullorgbr\">stOneskull.org <br></h3>\n<p>321 Something St. Jackson, AL 20332</p>",
+					"markdown": "### stOneskull.org <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
 				},
 				menus: [
 					{

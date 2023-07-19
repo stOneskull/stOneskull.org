@@ -5201,8 +5201,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees"
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas"
 			}
 		});
 
@@ -5214,8 +5214,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				background: {
 					"alt": "",
 					"src": "https://images.unsplash.com/photo-1669569243790-1c5c614e5943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80",
@@ -5226,11 +5226,11 @@ function create_fragment$9(ctx) {
 				logo: {
 					"image": {
 						"alt": "",
-						"src": "",
-						"url": "",
-						"size": null
+						"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"size": 24
 					},
-					"title": "BillionTrees"
+					"title": "stOneskull.org"
 				},
 				site_nav: [
 					{
@@ -5265,8 +5265,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				heading: "Supporting innovative methods to save Koalas.",
 				link: { "url": "/", "label": "Our Mission" },
 				content: {
@@ -5284,8 +5284,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				teasers: [
 					{
 						"body": {
@@ -5338,8 +5338,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				quote: {
 					"html": "<p>\"To be without trees would, in the most literal way, to be without our roots.\"</p>",
 					"markdown": "\"To be without trees would, in the most literal way, to be without our roots.\"\n\n"
@@ -5356,8 +5356,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				image: {
 					"alt": "",
 					"src": "https://images.unsplash.com/photo-1513185727240-e54323adb7f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1773&q=80",
@@ -5375,8 +5375,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				heading: "Contact Us",
 				subheading: "We'd love to hear from you.",
 				social: [
@@ -5420,11 +5420,11 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees",
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas",
 				content: {
-					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
-					"markdown": "### BillionTrees <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
+					"html": "<h3 id=\"stoneskullorgbr\">stOneskull.org <br></h3>\n<p>321 Something St. Jackson, AL 20332</p>",
+					"markdown": "### stOneskull.org <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
 				},
 				menus: [
 					{
@@ -5455,8 +5455,8 @@ function create_fragment$9(ctx) {
 					"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
 					"size": 24
 				},
-				title: "BillionTrees Project",
-				description: "We're on a mission to save the trees"
+				title: "Save Koalas",
+				description: "We're on a mission to save Koalas"
 			}
 		});
 

@@ -4305,7 +4305,7 @@ function create_fragment$5(ctx) {
 					"size": 24
 				},
 				title: "Blog",
-				description: "Our blog to learn everything you need to save the trees"
+				description: "Our blog to learn everything you need to save Koalas"
 			}
 		});
 
@@ -4318,34 +4318,20 @@ function create_fragment$5(ctx) {
 					"size": 24
 				},
 				title: "Blog",
-				description: "Our blog to learn everything you need to save the trees",
+				description: "Our blog to learn everything you need to save Koalas",
 				logo: {
 					"image": {
 						"alt": "",
-						"src": "",
-						"url": "",
-						"size": null
+						"src": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"url": "https://ogfrjxqovwgsdzubizan.supabase.co/storage/v1/object/public/images/94a5caa9-76b6-4c5d-924f-9e96e8e49ad2/1689736933217OIP%20(2).jpeg",
+						"size": 24
 					},
-					"title": "BillionTrees"
+					"title": "stOneskull.org"
 				},
 				site_nav: [
+					{ "link": { "url": "/", "label": "enim" } },
 					{
-						"link": {
-							"url": "https://primosites.vercel.app/theme-nonprofit",
-							"label": "Home"
-						}
-					},
-					{
-						"link": {
-							"url": "https://primosites.vercel.app/about",
-							"label": "About"
-						}
-					},
-					{
-						"link": {
-							"url": "https://primosites.vercel.app/blog",
-							"label": "Blog"
-						}
+						"link": { "url": "/", "label": "labore" }
 					}
 				]
 			}
@@ -4360,7 +4346,7 @@ function create_fragment$5(ctx) {
 					"size": 24
 				},
 				title: "Blog",
-				description: "Our blog to learn everything you need to save the trees",
+				description: "Our blog to learn everything you need to save Koalas",
 				teasers: [
 					{
 						"link": { "url": "/", "label": "Read more" },
@@ -4389,10 +4375,10 @@ function create_fragment$5(ctx) {
 					"size": 24
 				},
 				title: "Blog",
-				description: "Our blog to learn everything you need to save the trees",
+				description: "Our blog to learn everything you need to save Koalas",
 				content: {
-					"html": "<h3>BillionTrees <br></h3><p>321 Something St. Jackson, AL 20332</p>",
-					"markdown": "### BillionTrees <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
+					"html": "<h3 id=\"stoneskullorgbr\">stOneskull.org <br></h3>\n<p>321 Something St. Jackson, AL 20332</p>",
+					"markdown": "### stOneskull.org <br>\n\n\n\n321 Something St. Jackson, AL 20332\n\n"
 				},
 				menus: [
 					{
@@ -4424,7 +4410,7 @@ function create_fragment$5(ctx) {
 					"size": 24
 				},
 				title: "Blog",
-				description: "Our blog to learn everything you need to save the trees"
+				description: "Our blog to learn everything you need to save Koalas"
 			}
 		});
 
