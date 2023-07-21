@@ -5270,8 +5270,8 @@ function create_fragment$9(ctx) {
 				heading: "Supporting innovative methods to save Koalas.",
 				link: { "url": "/", "label": "Our Mission" },
 				content: {
-					"html": "<p>The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.</p><p>Nah it's about Koalas.</p><p>Stay tuned.</p>",
-					"markdown": "The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.\n\nNah it's about Koalas.\n\nStay tuned.\n\n"
+					"html": "<p>The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.</p><p>Nah it's about Koalas.</p><p>You can see I'm obviously editing a template. </p><p>Stay tuned.</p>",
+					"markdown": "The BillionTrees Project was initiated in 2020 to help further our mission to protect, preserve and restore the natural environment of our nation’s major rivers and their watersheds.\n\nNah it's about Koalas.\n\nYou can see I'm obviously editing a template.\n\nStay tuned.\n\n"
 				}
 			}
 		});
